@@ -9,7 +9,7 @@
 
 ## repo setup
 
-https://github.com/shane0/strengt
+https://github.com/shane0/strength
 
 ```sh
 echo "# strength" >> README.md
