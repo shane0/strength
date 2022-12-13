@@ -9,6 +9,8 @@
 
 ## repo setup
 
+https://github.com/shane0/strengt
+
 ```sh
 echo "# strength" >> README.md
 git init
