@@ -19,3 +19,5 @@ git remote add origin git@github.com:shane0/strength.git
 git push -u origin main
 ```
 
+origin	git@github.com:shane0/strength.git (fetch)
+origin	git@github.com:shane0/strength.git (push)
