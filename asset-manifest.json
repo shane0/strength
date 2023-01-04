@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/strength/static/css/main.7e776910.css",
+    "main.js": "/strength/static/js/main.0420b1e6.js",
+    "index.html": "/strength/index.html",
+    "main.7e776910.css.map": "/strength/static/css/main.7e776910.css.map",
+    "main.0420b1e6.js.map": "/strength/static/js/main.0420b1e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e776910.css",
+    "static/js/main.0420b1e6.js"
+  ]
+}
