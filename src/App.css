@@ -1,0 +1,92 @@
+body {
+  background-color: ghostwhite;
+  padding-top: 80px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: aliceblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: plum;
+}
+
+.App-link {
+  color: brown;
+}
+
+.container .row .col {
+  align-items: center;
+  text-align: center;
+  border-radius: 4px;
+}
+
+h1 h2 h3 h4 {
+  border: 2px;
+  border-radius: 6px;
+}
+
+.nav {
+  background-color: burlywood;
+  color: aquamarine;
+  width: 90%;
+  justify-content: center;
+  border-radius: 4px;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  padding: 5px;
+}
+
+.nav-right {
+  position: absolute;
+  right: 110px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 10px;
+  padding-top: 10px;
+  align-items: center;
+  background-color: lightskyblue;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+.anapana {
+  background-color: gainsboro;
+  color: indianred;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  border-radius: 5px;
+}
+
+.video-alt {
+  height: 90%;
+  width: 90%;
+  border-radius: 5px;
+}
