@@ -7,6 +7,7 @@
 - phase 1 weight estimates
 - barbell loader
 - workout journal
+- workout instructions
 - manage gyms
 
 ## repo setup

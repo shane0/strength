@@ -21,6 +21,8 @@ function App() {
               history
             </a>
           </Col>
+        </Row>
+        <Row>
           <Col>
             <h2>bar loader</h2>
             <a href="https://replit.com/@zoo00/barloader#index.js">replit</a>
@@ -39,8 +41,19 @@ function App() {
               src="https://replit.com/@zoo00/barloader?embed=true"
             ></iframe>
           </Col>
+        </Row>
+        <Row>
           <Col>
-            <h2>manage gyms</h2>
+            <h2>workout instructions</h2>
+            <iframe
+              width="756"
+              height="399"
+              src="https://www.youtube.com/embed/YfOI8BdrntQ"
+              title="What Is The Starting Strength Novice Progression ?"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
           </Col>
         </Row>
         <Header />
