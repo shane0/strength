@@ -27,13 +27,6 @@ function App() {
             <h2>bar loader</h2>
             <a href="https://replit.com/@zoo00/barloader#index.js">replit</a>
             <hr />
-            <ul>
-              <li>DEADLIFT = 70,35,5,2.5</li>
-              <li>SQUAT = 45,10,10,2.5</li>
-              <li>OVERHead = 35,2.5</li>
-              <li>BENCH = 35,5,2.5</li>
-            </ul>
-            <hr />
             <iframe
               frameborder="0"
               width="100%"
