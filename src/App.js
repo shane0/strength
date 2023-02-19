@@ -12,14 +12,16 @@ function App() {
       <Container>
         <Row>
           <Col>
-            <h2>workout log</h2>
+            <h2>workout log (google form)</h2>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSccRVwwl4ciW-j9FXxWpK1BOgalhIlPKjlpxr5yJg5UKaO6Rw/viewform?vc=0&c=0&w=1&flr=0">
               workout
             </a>
             <br />
             <a href="https://docs.google.com/spreadsheets/d/1kKEBMBDIk7f7lX3Yt88wA3drSodxAd-WHtbQuUGkEWY/edit?resourcekey#gid=1895309793">
-              history
+              history (google spreadsheet)
             </a>
+            <br />
+            <a href="https://www.numworks.com/simulator/">calculator</a>
           </Col>
         </Row>
         <Row>
